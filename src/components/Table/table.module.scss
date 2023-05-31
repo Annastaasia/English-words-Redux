@@ -15,6 +15,16 @@
   font-size: 1.2em;
   line-height: 160%;
   @include fixColor;
+
+  input {
+    border: 3px solid #3ddec9;
+    border-radius: 3px;
+    font-size: 15px;
+    outline: none;
+    padding: 10px 6px;
+    transition: all 0.3s ease;
+    max-width: 100%;
+  }
 }
 
 .container__cards {
@@ -22,10 +32,6 @@
   flex-direction: column;
   justify-content: space-between;
   margin: 5%;
-}
-
-.table_input {
-  height: 4vh;
 }
 
 .table_input--error {
