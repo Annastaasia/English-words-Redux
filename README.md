@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+<h1 align="center">English words cards (Карточки для изучения английских слов)</h1>
+<h2>About The Project (О проекте) - React application for learning english words</h2>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+1️⃣  С помощью **"English words cards"** можно изучать иностранные слова,   
+а также есть возможность `добавлять и корректировать: иностранное слово, транскрипция, подсказка и перевод`.
 
-In the project directory, you can run:
+2️⃣ Для удобства использования приложения у пользователей есть возможность после просмотра таблицы с иностранными словами, нажать кнопку страт, и уже потом кликнуть на `перевод слова` на карточке, чтобы проверить себя или вспомнить значение этих слов, если вдруг их забыли.
 
-### `npm start`
+3️⃣ Под карточкой находится счётчик, который показывает сколько слов ты уже запомнила из всего списка, так что вперёд, - `учить слова - это интересно` :-)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h2>Foto Presentation</h2>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img width="700" alt="Таблица с иностранными словами" src="https://user-images.githubusercontent.com/108290014/226208144-5612477f-aac0-40af-a24f-1404e55824b5.png">
+<img width="700" alt="Карточка с иностранным словом" src="https://user-images.githubusercontent.com/108290014/224570415-f5ffc9a2-726a-4f38-b1dd-6363e0e4e637.png">
 
-### `npm test`
+## Getting started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Чтобы запустить проект тебе нужно:
+<p> `npm install`
+<p> `npm run start`
 
-### `npm run build`
+<h2>Technologies</h2>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+:white_check_mark: HTML    
+:white_check_mark: SCSS      
+:white_check_mark: Java Script   
+:white_check_mark: React       
+:white_check_mark: Grid    
+:white_check_mark: Flex    
+:white_check_mark: semantic and responsive layout *(семантическая и отзывчивая вёрстка)*      
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<h2>Contacts</h2>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Anastasiya Shitenkova** – (LinkedIn) *https://www.linkedin.com/in/anastasiya-shitenkova/* – (Telegram) - *https://t.me/Nemezida_Ok*
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Result:
+https://annastaasia.github.io/English-words-card/
