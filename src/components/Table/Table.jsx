@@ -123,12 +123,17 @@ export default function Table(props) {
             </div>
 
             <div className="table_buttons">
-              <button
+              <motion.button
                 type="submit"
                 onClick={onSubmit}
                 className="table_save"
-              ></button>
-              <button className="table_close" onClick={onCancelClick}></button>
+                whileHover={{ scale: 1.2 }}
+              ></motion.button>
+              <motion.button
+                className="table_close"
+                onClick={onCancelClick}
+                whileHover={{ scale: 1.2 }}
+              ></motion.button>
             </div>
           </>
         ) : (
@@ -144,11 +149,16 @@ export default function Table(props) {
             <div className="table_tags">{props.tags}</div>
 
             <div className="table_buttons">
-              <button className="table_edit" onClick={onEditClick}></button>
-              <button
+              <motion.button
+                className="table_edit"
+                onClick={onEditClick}
+                whileHover={{ scale: 1.2 }}
+              ></motion.button>
+              <motion.button
                 className="table_delete"
                 onClick={() => DELITE(id)}
-              ></button>
+                whileHover={{ scale: 1.2 }}
+              ></motion.button>
             </div>
           </>
         )}

@@ -96,16 +96,18 @@ export default function AddWords() {
           />
 
           <div className="table_buttons">
-            <button
+            <motion.button
               type="button"
               onClick={handleSubmit}
               className={" table_save "}
-            ></button>
-            <button
+              whileHover={{ scale: 1.2 }}
+            ></motion.button>
+            <motion.button
               className="table_close"
               // disabled={loading}
               onClick={clearForm}
-            ></button>
+              whileHover={{ scale: 1.2 }}
+            ></motion.button>
             {/* {error && <p>{error.message}</p>} */}
           </div>
         </motion.form>
