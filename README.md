@@ -11,8 +11,8 @@
 
 <h2>Foto Presentation</h2>
 
-<img width="700" alt="Таблица с иностранными словами" src="https://user-images.githubusercontent.com/108290014/226208144-5612477f-aac0-40af-a24f-1404e55824b5.png">
-<img width="700" alt="Карточка с иностранным словом" src="https://user-images.githubusercontent.com/108290014/224570415-f5ffc9a2-726a-4f38-b1dd-6363e0e4e637.png">
+<img width="700" alt="Таблица с иностранными словами" src="https://github.com/Annastaasia/English-words-Redux/assets/108290014/03212982-c4d0-40b5-89cb-714fe9cf6a05.png">
+<img width="700" alt="Карточка с иностранным словом" src="https://github.com/Annastaasia/English-words-Redux/assets/108290014/1b029ec8-ed4e-49d9-8536-a70e387d0524.png">
 
 ## Getting started
 
@@ -22,10 +22,11 @@
 
 <h2>Technologies</h2>
 
+:white_check_mark: Redux
+:white_check_mark: React   
 :white_check_mark: HTML    
 :white_check_mark: SCSS      
 :white_check_mark: Java Script   
-:white_check_mark: React       
 :white_check_mark: Grid    
 :white_check_mark: Flex    
 :white_check_mark: semantic and responsive layout *(семантическая и отзывчивая вёрстка)*      
