@@ -22,9 +22,8 @@
 
 <h2>Technologies</h2>
 
-:white_check_mark: Redux
-:white_check_mark: React   
-:white_check_mark: HTML    
+:white_check_mark: React + Redux
+
 :white_check_mark: SCSS      
 :white_check_mark: Java Script   
 :white_check_mark: Grid    
