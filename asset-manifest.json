@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/English-words-Redux/static/css/main.50bdf34c.css",
+    "main.js": "/English-words-Redux/static/js/main.63484a5b.js",
+    "static/js/787.629706ad.chunk.js": "/English-words-Redux/static/js/787.629706ad.chunk.js",
+    "static/media/404.png": "/English-words-Redux/static/media/404.adab416844b994261df8.png",
+    "index.html": "/English-words-Redux/index.html",
+    "main.50bdf34c.css.map": "/English-words-Redux/static/css/main.50bdf34c.css.map",
+    "main.63484a5b.js.map": "/English-words-Redux/static/js/main.63484a5b.js.map",
+    "787.629706ad.chunk.js.map": "/English-words-Redux/static/js/787.629706ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50bdf34c.css",
+    "static/js/main.63484a5b.js"
+  ]
+}
