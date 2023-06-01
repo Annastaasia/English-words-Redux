@@ -17,7 +17,7 @@ export default function App() {
       <Header />
       <Routes>
         <Route exact path="/game" element={<CardLearn />} />
-        <Route exact path="/English-words-card" element={<TableMap />} />
+        <Route exact path="/English-words-Redux" element={<TableMap />} />
         <Route path="*" element={<NoMatch />} />
       </Routes>
       <Footer />
