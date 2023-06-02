@@ -22,17 +22,17 @@
 
 <h2>Technologies</h2>
 
-:white_check_mark: React + Redux
-
-:white_check_mark: SCSS      
+:white_check_mark: React    
+:white_check_mark: Redux      
 :white_check_mark: Java Script   
+:white_check_mark: SCSS       
 :white_check_mark: Grid    
 :white_check_mark: Flex    
-:white_check_mark: semantic and responsive layout *(семантическая и отзывчивая вёрстка)*      
+:white_check_mark: semantic and responsive layout *(семантическая и отзывчивая вёрстка)*   
 
 <h2>Contacts</h2>
 
 **Anastasiya Shitenkova** – (LinkedIn) *https://www.linkedin.com/in/anastasiya-shitenkova/* – (Telegram) - *https://t.me/Nemezida_Ok*
 
 ## Result:
-https://annastaasia.github.io/English-words-card/
+https://annastaasia.github.io/English-words-Redux/
