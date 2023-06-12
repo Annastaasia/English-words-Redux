@@ -25,10 +25,11 @@
 :white_check_mark: React    
 :white_check_mark: Redux      
 :white_check_mark: Java Script   
-:white_check_mark: SCSS       
+:white_check_mark: SCSS         
+:white_check_mark: HTML            
 :white_check_mark: Grid    
 :white_check_mark: Flex    
-:white_check_mark: semantic and responsive layout *(семантическая и отзывчивая вёрстка)*   
+:white_check_mark: semantic and responsive layout *(семантическая и отзывчивая вёрстка)* 
 
 <h2>Contacts</h2>
 
